@@ -7,6 +7,9 @@
 }
 
 body{
-  background:lightgrey;
+  background:purple;
   font-family: "Times New Roman", Times, serif;
+}
+li{
+  background:darkblue
 }
